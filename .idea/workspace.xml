@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccef2e62-515c-40a7-99f3-011a28c22110" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bB4qSolO1CzUGR75tl38HJtqvR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/USER/USER/src/dataset&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/USER/USER/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\USER\USER\src\dataset" />
+      <recent name="D:\USER\USER\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainTest_USER">
+    <configuration name="CountNegativeOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountNegativeOnes" />
+      <module name="USER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest_USER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTest_USER" />
+      <module name="USER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceLines" />
+      <module name="USER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest_USER" />
+        <item itemvalue="Application.CountNegativeOnes" />
+        <item itemvalue="Application.ReplaceLines" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccef2e62-515c-40a7-99f3-011a28c22110" name="Changes" comment="" />
+      <created>1705675331087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705675331087</updated>
+      <workItem from="1705675332098" duration="55450000" />
+      <workItem from="1709643874831" duration="1470000" />
+      <workItem from="1716878544387" duration="633000" />
+      <workItem from="1717332744505" duration="8391000" />
+      <workItem from="1717387190469" duration="18506000" />
+      <workItem from="1717421540234" duration="19599000" />
+      <workItem from="1720843397537" duration="29000" />
+      <workItem from="1736400720639" duration="1852000" />
+      <workItem from="1736903970465" duration="2434000" />
+      <workItem from="1741263461628" duration="32000" />
+      <workItem from="1741617533455" duration="45000" />
+      <workItem from="1741705236992" duration="1620000" />
+      <workItem from="1741744957752" duration="20803000" />
+      <workItem from="1742122418697" duration="601000" />
+      <workItem from="1742129942056" duration="552000" />
+      <workItem from="1742172946193" duration="927000" />
+      <workItem from="1742181310943" duration="2037000" />
+      <workItem from="1742186501053" duration="4590000" />
+      <workItem from="1742215637824" duration="9541000" />
+      <workItem from="1743660329057" duration="330000" />
+      <workItem from="1743660747441" duration="1611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
